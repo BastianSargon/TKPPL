@@ -1,0 +1,7 @@
+{
+  "name": "presentation-memanipulasi-pikiran-manusia",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}

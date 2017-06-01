@@ -1,0 +1,65 @@
+=======================
+Nama kelompok: Kelompok 7
+
+Judul Topik: Memanipulasi Pikiran Manusia
+
+Anggota 1:
+	Nama: Ade Maulana Putra
+	NIM: 151111712
+Anggota 2:
+	Nama: Bastian Sargon Hutasoit
+	NIM: 151111399
+Anggota 3:
+	Nama: Olivia Katty Saragih
+	NIM: 151111623
+Anggota 4:
+	Nama: Wira Hartadinata
+	NIM: 151111160
+=======================
+
+SPRINT
+------
+Sprint 1:
+Scrummaster: Bastian Sargon Hutasoit (151111399)
+
+Sprint 2: Ade Maulana Putra (151111712)
+
+Sprint 3: Olivia Katty Saragih (151111623)
+
+Sprint 4: Wira Hartadinata (151111160)
+
+
+----------------
+Progress Harian
+----------------
+
+25 Mei
+
+- Scrum master (Bastian Sargon Hutasoit)
+(*) Upload .gitattributes dan .gitignore files
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+26 Mei
+
+- Sprint 3 (Olivia Katty Saragih)
+(*) Upload file readme.md
+
+- Scrum master (Bastian Sargon Hutasoit)
+(*) Upload slide presentasi
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1 Juni
+
+- Sprint 2 (Ade Maulana Putra)
+(*) Menghapus beberapa file karena terdapat kesalahan pada file tersebut
+(*) Upload logbook
+
+- Scrum Master (Bastian Sargon Hutasoit)
+(*) Mengupload kembali serta memperbaiki kesalahan dari file yang diupload sebelumnya
+
+- Sprint 3 (Olivia Katty Saragih)
+(*) Upload penambahan slide
+(*) upload gambar untuk keperluan slide
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
